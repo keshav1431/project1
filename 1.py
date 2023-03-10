@@ -9,3 +9,9 @@ else:
 print(type(c))
 y_x=10
 print (y_x)
+##Branch3
+##New logic
+a=20
+b=30
+c=a+b
+print (c)
